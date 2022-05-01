@@ -40,8 +40,8 @@ selected_squares = []  # Keeps track of what are the squares that needs to be hi
 Y_OFFSET = 55
 
 # Music Initialization
-pygame.mixer.music.load('music.mp3')
-pygame.mixer.music.play(-1)
+# pygame.mixer.music.load('music.mp3')
+# pygame.mixer.music.play(-1)
 
 # Font Initialization
 pygame.font.init()
